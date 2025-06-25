@@ -66,17 +66,17 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravjaniyani&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-janiyani&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravjaniyani&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-janiyani&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%">
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gauravjaniyani&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-janiyani&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies">
 </div>
 
 ## 🎯 Key Achievements
