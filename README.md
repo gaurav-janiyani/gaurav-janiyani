@@ -58,11 +58,6 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 - **Web Designer** at Cosmonaut Technologies (Apr 2019 - Sep 2020)
 - **Front End Developer** at Actonate IT Solutions (Oct 2018 - Jan 2019)
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurav-janiyani&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies">
-</div>
-
 ## 🎯 Key Achievements
 
 - ⚡ **50% performance boost** in headless WordPress/CMS solutions
