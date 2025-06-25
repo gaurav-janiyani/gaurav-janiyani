@@ -62,11 +62,11 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaurav-janiyani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-janiyani&layout=compact&theme=radical&hide_border=true&langs_count=10&count_private=true" alt="Top Languages" height="180">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-janiyani&layout=compact&theme=radical&hide_border=true&langs_count=10&count_private=true" alt="Top Languages" height="180"> -->
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-janiyani&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-janiyani&theme=radical&hide_border=true" alt="GitHub Streak" width="400"> -->
 </div>
 
 ## 📈 Contribution Graph
