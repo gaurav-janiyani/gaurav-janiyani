@@ -14,19 +14,6 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 - 🎯 Committed to **accessibility standards (WCAG 2.1)**, **W3C compliance**, and **cross-browser compatibility**
 - 📫 Reach me at: **gauravjaniyani@gmail.com**
 
-## 💼 Professional Experience
-
-### 🏢 The Syntax Studio | Front End Developer
-**Oct 2020 - Present | Vadodara, India**
-- Developed high-performance SPAs using React, Next.js, Redux improving page load speed significantly
-- Implemented micro-frontend solutions with Module Federation for cross-team collaboration
-- Built headless WordPress/CMS solutions boosting site performance by 50%
-- Achieved 35% increase in organic traffic through SSR and advanced SEO strategies
-
-### 🎨 Previous Roles
-- **Web Designer** at Cosmonaut Technologies (Apr 2019 - Sep 2020)
-- **Front End Developer** at Actonate IT Solutions (Oct 2018 - Jan 2019)
-
 ## 🛠️ Tech Stack & Skills
 
 ### Frontend Development
@@ -58,21 +45,18 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-janiyani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-janiyani&layout=compact&theme=radical&hide_border=true&langs_count=10&count_private=true" alt="Top Languages" height="180"> -->
-</div>
+### 🏢 The Syntax Studio | Front End Developer
+**Oct 2020 - Present | Vadodara, India**
+- Developed high-performance SPAs using React, Next.js, Redux improving page load speed significantly
+- Implemented micro-frontend solutions with Module Federation for cross-team collaboration
+- Built headless WordPress/CMS solutions boosting site performance by 50%
+- Achieved 35% increase in organic traffic through SSR and advanced SEO strategies
 
-<div align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-janiyani&theme=radical&hide_border=true" alt="GitHub Streak" width="400"> -->
-</div>
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav-janiyani&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%">
-</div>
+### 🎨 Previous Roles
+- **Web Designer** at Cosmonaut Technologies (Apr 2019 - Sep 2020)
+- **Front End Developer** at Actonate IT Solutions (Oct 2018 - Jan 2019)
 
 ## 🏆 GitHub Trophies
 <div align="center">
