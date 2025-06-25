@@ -91,10 +91,10 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 ## 🎓 Education
 
 **Master of Computer Application** - Sardar Vallabhbhai Institute of Technology (SVIT), Vasad  
-*2015 - 2019 | CGPA: 6.8*
+*2015 - 2019*
 
 **Bachelor of Computer Application** - The Maharaja Sayajirao University, Vadodara  
-*2012 - 2015 | Percentage: 57%*
+*2012 - 2015*
 
 ## 🌐 Languages
 
@@ -109,7 +109,6 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravjaniyani)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravjaniyani@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919429575032)
 
 </div>
 
