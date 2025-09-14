@@ -47,7 +47,7 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 ## 💼 Professional Experience
 
 ### 🏢 The Syntax Studio | Front End Developer
-**Oct 2020 - Present | Vadodara, India**
+**Oct 2020 - Present | India**
 - Developed high-performance SPAs using React, Next.js, Redux improving page load speed significantly
 - Implemented micro-frontend solutions with Module Federation for cross-team collaboration
 - Built headless WordPress/CMS solutions boosting site performance by 50%
