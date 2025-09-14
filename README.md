@@ -12,7 +12,6 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 - 🌱 Specialized in **ReactJS, NextJS, Node.js, and modern web technologies**
 - 💡 Expert in **micro-frontend solutions**, **component-driven architecture**, and **performance optimization**
 - 🎯 Committed to **accessibility standards (WCAG 2.1)**, **W3C compliance**, and **cross-browser compatibility**
-- 📫 Reach me at: **gauravjaniyani@gmail.com**
 
 ## 🛠️ Tech Stack & Skills
 
@@ -66,28 +65,6 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 - 🚀 Pioneered **CI/CD pipelines** with automated testing frameworks
 - 📱 Built **15+ responsive websites** with cross-browser compatibility
 - 🏅 **5th place** in 'Sarjan' Project Exhibition at SVIT-VASAD
-
-## 🎓 Education
-
-**Master of Computer Application** - Sardar Vallabhbhai Institute of Technology (SVIT), Vasad  
-*2015 - 2019*
-
-**Bachelor of Computer Application** - The Maharaja Sayajirao University, Vadodara  
-*2012 - 2015*
-
-## 🌐 Languages
-
-- 🇬🇧 **English** (Professional)
-- 🇮🇳 **Hindi** (Fluent)
-- 🇮🇳 **Gujarati** (Fluent)
-- 🇮🇳 **Sindhi** (Native)
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravjaniyani)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravjaniyani@gmail.com)
 
 </div>
 
