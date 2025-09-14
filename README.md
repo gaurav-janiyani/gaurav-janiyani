@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an experienced and self-motivated **Front-End Developer** with **6+ years** of expertise in designing and developing responsive web applications. Based in **Vadodara, India**, I'm passionate about creating user-friendly digital experiences and staying updated with emerging technologies to drive business growth.
+I'm an experienced and self-motivated **Front-End Developer** with **6+ years** of expertise in designing and developing responsive web applications. Based in **India**, I'm passionate about creating user-friendly digital experiences and staying updated with emerging technologies to drive business growth.
 
 - 🔭 Currently working at **The Syntax Studio** as a Front End Developer
 - 🌱 Specialized in **ReactJS, NextJS, Node.js, and modern web technologies**
