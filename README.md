@@ -46,7 +46,7 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 
 ## 💼 Professional Experience
 
-### 🏢 Infogain | Senior COnsultant
+### 🏢 Infogain | Senior Consultant
 **July 2025 - Present | India**
 - Developed high-performance SPAs using React, Redux improving page load speed significantly
 - Implemented **micro-frontend solutions** with Module Federation for cross-team collaboration
