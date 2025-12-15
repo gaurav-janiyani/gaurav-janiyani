@@ -8,7 +8,7 @@
 
 I'm an experienced and self-motivated **Front-End Developer** with **6+ years** of expertise in designing and developing responsive web applications. Based in **India**, I'm passionate about creating user-friendly digital experiences and staying updated with emerging technologies to drive business growth.
 
-- 🔭 Currently working at **The Syntax Studio** as a Front End Developer
+- 🔭 Currently working at **Infogain** as a Senior Consultant
 - 🌱 Specialized in **ReactJS, NextJS, Node.js, and modern web technologies**
 - 💡 Expert in **micro-frontend solutions**, **component-driven architecture**, and **performance optimization**
 - 🎯 Committed to **accessibility standards (WCAG 2.1)**, **W3C compliance**, and **cross-browser compatibility**
@@ -46,14 +46,17 @@ I'm an experienced and self-motivated **Front-End Developer** with **6+ years** 
 
 ## 💼 Professional Experience
 
-### 🏢 The Syntax Studio | Front End Developer
-**Oct 2020 - Present | India**
-- Developed high-performance SPAs using React, Next.js, Redux improving page load speed significantly
-- Implemented micro-frontend solutions with Module Federation for cross-team collaboration
-- Built headless WordPress/CMS solutions boosting site performance by 50%
-- Achieved 35% increase in organic traffic through SSR and advanced SEO strategies
+### 🏢 Infogain | Senior COnsultant
+**July 2025 - Present | India**
+- Developed high-performance SPAs using React, Redux improving page load speed significantly
+- Implemented **micro-frontend solutions** with Module Federation for cross-team collaboration
+- Implemented **real-time service tracking** and **visualization** using **HERE Maps** and **Chart.js** to provide operational insights and improve decision-making
+- Built secure **role-based access control (RBAC)** ensuring controlled access and compliance across different user roles and brands
+-	Utilized **Syncfusion** components to build high-performance, data-intensive dashboards and workflows
+
 
 ### 🎨 Previous Roles
+- **Front End Developer** at The Syntax Studio (Oct 2020 - June 2025)
 - **Web Designer** at Cosmonaut Technologies (Apr 2019 - Sep 2020)
 - **Front End Developer** at Actonate IT Solutions (Oct 2018 - Jan 2019)
 
